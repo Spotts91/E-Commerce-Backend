@@ -68,4 +68,4 @@ The application is used to GET data for each route(categories, products, or tags
 This repository is licensed under the MIT license.
 
 # Questions
-Questions about this repository? Please contact me at [oakshassa864@gmail.com](mailto:oakshassa864@gmail.com). View more of my work in GitHub at [Spencer Potts](https://github.com/Spotts91) 
+Questions about this repository? Please contact me at [oakshassa864@gmail.com](mailto:oakshassa864@gmail.com). View more of my work in GitHub at [https://github.com/Spotts91](https://github.com/Spotts91) 
