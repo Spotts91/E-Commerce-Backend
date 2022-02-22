@@ -15,7 +15,7 @@ Image showcasing the application running in Insomnia.
 <img src=./assets/one.png>
 
 Demonstration Video
-<a>"https://drive.google.com/file/d/1ddlDw83By51Kv6BjANmykrF5vdk-Fhup/view"></a>
+<a>"https://drive.google.com/file/d/1ddlDw83By51Kv6BjANmykrF5vdk-Fhup/view?usp=sharing"></a>
 
 # Technologies
 Project is created with 
